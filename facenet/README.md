@@ -12,12 +12,13 @@
 * annoy
 * faiss
 
-## FaceNetインストール
+## インストール
 1. git clone https\://github.com/davidsandberg/facenet.git
 2. pip install -r requirements.txt
 3. download tensorflow checkpoints
 4. (pip uninstall tensorflow)
 5. (pip install tensorflow-gpu)
+6. $FACENET_ROOT/src配下にここのプログラムをおく
 
 ## 使い方
 ### データ準備
